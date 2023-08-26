@@ -1,0 +1,110 @@
+*{
+    box-sizing: border-box;
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+#find-Products{
+    background-color: rgb(198, 207, 82);
+    width: 245px;;
+    text-align: center;
+    padding: 10px 0px 8px 0px;
+    margin: 2px 2px 20px 2px;
+    border-radius: 3px;
+}
+
+#Product-Compare{
+    padding: 3px 0px 15px 0px;
+    font-size: 13px;
+    color: rgb(97, 97, 97);
+}
+
+.Product-chooes-cell{
+    width: 200px;
+    text-align: center;
+    height: 37px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+
+.Extar{
+    margin-top: 4px;
+    background-color: rgb(5, 189, 85);
+    color: white;
+    border-radius: 6px;
+    width: 180px;
+    height: 35px;
+}
+
+#cumputer-d{
+    width: 205px;
+    text-align: center;
+    background-color:rgb(241, 241, 241);
+    border: 1px groove transparent;
+    margin: 3px 3px 20px 3px;
+}
+
+.ti{
+    margin-top: 4px;
+    background-color:white;
+    text-align:center;
+    padding: 7px 7px 10px;
+}
+
+#price{
+    margin-top: 10px;
+    text-align:left;
+}
+
+#Result-ta{
+    width: 450px;
+    padding: 4px;
+    border-radius: 4px;
+    margin: 10px;
+    background: whitesmoke;
+    border: 1px groove transparent;
+}
+
+#table-title{
+    background: rgb(0, 109, 40);
+    height: 80px;
+    padding-top: 10px;
+    color: white;
+}
+
+#table-title-1{
+    padding: 4px 10px 4px 4px;
+    color: rgb(0, 255, 4);
+}
+
+#un-style{
+    padding: 0px;
+    border: 1px solid white;
+}
+
+#table-title-2{
+    padding: 4px;
+}
+
+#table-title-3{
+    background-color: blanchedalmond;
+    margin-top: 2px;
+    vertical-align: middle;
+    text-align: right;
+    padding-right: 3px;
+    font-size: 13px;
+    color: rgb(126, 126, 126);}
+
+#table-form-style{
+    width: 340px;
+    margin: 10px 0px 10px 60px;
+    border: 1px solid black;
+    padding: 15px;
+}
+
+.form-cell{
+    height: 20px;
+    border: 1px solid black;
+    margin: 4px 4px;
+
+}
